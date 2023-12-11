@@ -1,6 +1,6 @@
 # Web-Form
 
-## Created th clones of the web forms at:
+## Created th clone of the web forms at:
 https://happy22kids.uho.org.in/joinchain.php
 ## Also created the clone of:
 https://happy22kids.uho.org.in/chain4childrenscheer.php
@@ -9,7 +9,7 @@ https://happy22kids.uho.org.in/chain4childrenscheer.php
 * XAMPP
 
 ## To run 
-1. git clone https://github.com/snkdeveloper/Python-Graph-Drawing.git
+1. git clone 
 2. cd Python-Graph-Drawing
 
 
