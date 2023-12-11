@@ -12,7 +12,7 @@ https://happy22kids.uho.org.in/chain4childrenscheer.php
 1. git clone https://github.com/snkdeveloper/Web-Form.git
 2. cd Web-Form
 3. copy the php files to xampp/htdocs
-4. run the apache and mysql using xampp control panel
+4. run the apache and mysql servers using xampp control panel
 5. create a database named supp with table named supp with 7 attributes in phpmyadmin
    *id
    *name
